@@ -1,0 +1,10 @@
+uuid: cdb81b9f-e047-4cd1-9128-35c5630da4fb
+langcode: es
+status: true
+dependencies: {  }
+id: test
+label: test
+service_api: example_services_yaml
+command_name: FindComments
+parameters:
+  postId: 1

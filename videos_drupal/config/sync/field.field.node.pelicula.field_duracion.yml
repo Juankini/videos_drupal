@@ -1,0 +1,19 @@
+uuid: 1a8d4dd2-b8a2-4b07-8b64-6fa5186d90c6
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_duracion
+    - node.type.pelicula
+id: node.pelicula.field_duracion
+field_name: field_duracion
+entity_type: node
+bundle: pelicula
+label: duracion
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

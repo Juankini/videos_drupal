@@ -1,0 +1,13 @@
+uuid: 20cd65ae-e9be-40f7-b30b-354f9d2794c7
+langcode: es
+status: true
+dependencies: {  }
+id: https_api_themoviedb_org_3_movie_550_api_key_e7e9ddbba6344ade38d
+label: 'https://api.themoviedb.org/3/movie/550?api_key=e7e9ddbba6344ade38deaf2d405eb5a6'
+service_api: example_services
+command_name: CreatePost
+parameters:
+  content-type: application/json
+  title: test
+  body: holi
+  userId: '001'

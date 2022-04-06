@@ -1,0 +1,8 @@
+uuid: 6ab58253-60ae-4701-b626-556c522c2498
+langcode: es
+status: true
+dependencies: {  }
+name: Géneros
+vid: generos
+description: 'Géneros de Peliculas'
+weight: 0
